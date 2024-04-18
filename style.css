@@ -2,6 +2,7 @@
 
 /* Set background color for the entire page */
 body {
+    color: white;
     background-color: lightblue;
 }
 
